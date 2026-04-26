@@ -373,7 +373,7 @@ smartadserver.com, 4111, RESELLER
 smartadserver.com, 4140, RESELLER
 smartadserver.com, 4210, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4284, RESELLER
-smartadserver.com, 4342, RESELLER
+smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4343, RESELLER
 smartadserver.com, 4383, RESELLER
 smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
