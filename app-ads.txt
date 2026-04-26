@@ -209,6 +209,7 @@ media.net, 8cu65v935, RESELLER
 media.net, 8CU76268D, RESELLER
 media.net, 8cu9b72o6, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
+media.net, 8cu12aq1y, RESELLER
 media.net, 8CUH46N56, RESELLER
 media.net, 8cuiv8d19, RESELLER
 media.net, 8CUI89K0D, RESELLER
@@ -424,6 +425,8 @@ sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, wRgOcZeV, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ZqrIAHsE, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 showheroes.com, 6037, RESELLER
 showheroes.com, 6833, RESELLER
