@@ -620,3 +620,5 @@ lijit.com, 583722, reseller, fafdf38b16bf6b2b
 rubiconproject.com, 27963, reseller, 0bfd66d529a55807
 smartadserver.com, 5791, reseller, 060d053dcf45cbf3
 sharethrough.com, 5791, reseller, d53b998a7bd4ecd2
+video.unrulymedia.com, 703273072, RESELLER
+media.net, 8CU675N41, RESELLER
